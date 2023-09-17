@@ -1,0 +1,2186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="M4_MPBttstck_Welliton_Winter_White">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="M4_PlasticHndgrd_Welliton_Winter_White">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="M4_Suppressor_Welliton_Winter_White">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier67" />
+        <category name="lantia" />
+        <tag name="military" />
+    </type>
+	<type name="M4_CarryHandleOptic_Welliton_Winter_White">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="M4_MPBttstck_Welliton_Winter_Camo">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="M4_PlasticHndgrd_Welliton_Winter_Camo">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="M4_Suppressor_Welliton_Winter_Camo">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier67" />
+        <category name="lantia" />
+        <tag name="military" />
+    </type>
+	<type name="M4_CarryHandleOptic_Welliton_Winter_Camo">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="AK_PlasticBttstck_Winter_White">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="AK_PlasticHndgrd_Winter_White">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="AK_PlasticBttstck_Winter_Camo">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="AK_PlasticHndgrd_Winter_Camo">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="AKS74U_Bttstck_Winter_White">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="AKS74U_Bttstck_Winter_Camo">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+		<type name="AK_Suppressor_Winter_White">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier67" />
+        <category name="lantia" />
+        <tag name="military" />
+    </type>
+	<type name="Saiga_Bttstck_Winter_White">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="Saiga_Bttstck_Winter_Camo">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>	
+	<type name="GhillieBushrag_Welliton_Winter_Grey">
+        <nominal>2</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>1800</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="GhillieTop_Welliton_Winter_Grey">
+        <nominal>2</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>1800</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="GhillieSuit_Welliton_Winter_Grey">
+        <nominal>2</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>1800</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="GhillieHood_Welliton_Winter_Grey">
+        <nominal>2</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>1800</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="GhillieAtt_Welliton_Winter_Grey">
+        <nominal>2</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>1800</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="GhillieBushrag_Welliton_Winter_White">
+        <nominal>2</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>1800</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="GhillieTop_Welliton_Winter_White">
+        <nominal>2</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>1800</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="GhillieSuit_Welliton_Winter_White">
+        <nominal>2</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>1800</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="GhillieHood_Welliton_Winter_White">
+        <nominal>2</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>1800</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="GhillieAtt_Welliton_Winter_White">
+        <nominal>2</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>1800</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+<!--Clothes-->
+<!--Clothes-->
+<!--Clothes-->
+<!--Clothes-->
+<!------------------------------------------------------------Clothes----------------------------------------------------------------------->		
+	<type name="TacticalShirt_Welliton_Winter_Clatch">
+        <nominal>3</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="AssaultBag_Welliton_Winter_Camo">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="bags" />
+        <tag name="military" />
+    </type>
+	<type name="HuntingBag_Welliton_Winter_Camo">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="bags" />
+        <tag name="civilian" />
+        <tag name="hunting" />
+    </type>
+	<type name="MountainBag_Welliton_Winter_Camo">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="bags" />
+        <tag name="civilian" />
+    </type>
+	<type name="TortillaBag_Welliton_Winter_Camo">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="bags" />
+        <tag name="military" />
+    </type>
+	<type name="CargoPants_Welliton_Winter_Camo">
+        <nominal>4</nominal>
+        <min>3</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="industrial" />
+    </type>
+	<type name="FirefightersPants_Welliton_Winter_Camo">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="firefighter" />
+    </type>
+	<type name="GorkaPants_Welliton_Winter_Camo">
+        <nominal>4</nominal>
+        <min>3</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier23" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="HunterPants_Welliton_Winter_Camo">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>1800</lifetime>
+        <restock>500</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+        <tag name="hunting" />
+    </type>
+	<type name="FirefighterJacket_Welliton_Winter_Camo">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="firefighter" />
+    </type>
+	<type name="GorkaEJacket_Welliton_Winter_Camo">
+        <nominal>4</nominal>
+        <min>3</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier23" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="HuntingJacket_Welliton_Winter_Camo">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>1800</lifetime>
+        <restock>500</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+        <tag name="hunting" />
+    </type>
+	<type name="TacticalShirt_Welliton_Winter_Camo">
+        <nominal>3</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="PlateCarrierVest_Welliton_Winter_Camo">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="PlateCarrierPouches_Welliton_Winter_Camo">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="containers" />
+        <tag name="military" />
+    </type>
+	<type name="PlateCarrierHolster_Welliton_Winter_Camo">
+        <nominal>3</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="containers" />
+        <tag name="military" />
+    </type>
+	<type name="SmershVest_Welliton_Winter_Camo">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="SmershBag_Welliton_Winter_Camo">
+        <nominal>3</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="bags" />
+        <tag name="military" />
+    </type>
+	<type name="UKAssVest_Welliton_Winter_Camo">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="PoliceVest_Welliton_Winter_Camo">
+        <nominal>6</nominal>
+        <min>4</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="police" />
+    </type>
+	<type name="HighCapacityVest_Welliton_Winter_Camo">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="Mich2001Helmet_Welliton_Winter_Camo">
+        <nominal>5</nominal>
+        <min>3</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="DarkMotoHelmet_Welliton_Winter_Camo">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+    </type>
+	<type name="GorkaHelmet_Welliton_Winter_Camo">
+        <nominal>4</nominal>
+        <min>3</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+        <tag name="police" />
+    </type>
+	<type name="BalaclavaMask_Welliton_Winter_Camo">
+        <nominal>10</nominal>
+        <min>6</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+        <tag name="military" />
+        <tag name="police" />
+    </type>
+	<type name="Balaclava3Holes_Welliton_Winter_Camo">
+        <nominal>10</nominal>
+        <min>6</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+        <tag name="military" />
+        <tag name="police" />
+    </type>
+	<type name="FaceCover_Improvised_Welliton_Winter_Camo">
+        <nominal>3</nominal>
+        <min>1</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+        <tag name="military" />
+        <tag name="police" />
+    </type>
+	<type name="TacticalGloves_Welliton_Winter_Camo">
+        <nominal>8</nominal>
+        <min>6</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="OMNOGloves_Welliton_Winter_Camo">
+        <nominal>8</nominal>
+        <min>6</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="WorkingGloves_Welliton_Winter_Camo">
+        <nominal>20</nominal>
+        <min>15</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="firefighter" />
+    </type>
+	<type name="AssaultBag_Welliton_Winter_Grey">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="bags" />
+        <tag name="military" />
+    </type>
+	<type name="HuntingBag_Welliton_Winter_Grey">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="bags" />
+        <tag name="civilian" />
+        <tag name="hunting" />
+    </type>
+	<type name="MountainBag_Welliton_Winter_Grey">
+        <nominal>8</nominal>
+        <lifetime>6000</lifetime>
+        <restock>600</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="TortillaBag_Welliton_Winter_Grey">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="bags" />
+        <tag name="military" />
+    </type>
+	<type name="CargoPants_Welliton_Winter_Grey">
+        <nominal>4</nominal>
+        <min>3</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="industrial" />
+    </type>
+	<type name="FirefightersPants_Welliton_Winter_Grey">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="firefighter" />
+    </type>
+	<type name="GorkaPants_Welliton_Winter_Grey">
+        <nominal>4</nominal>
+        <min>3</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier23" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="HunterPants_Welliton_Winter_Grey">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>1800</lifetime>
+        <restock>500</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+        <tag name="hunting" />
+    </type>
+	<type name="FirefighterJacket_Welliton_Winter_Grey">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="firefighter" />
+    </type>
+	<type name="GorkaEJacket_Welliton_Winter_Grey">
+        <nominal>4</nominal>
+        <min>3</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier23" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="HuntingJacket_Welliton_Winter_Grey">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>1800</lifetime>
+        <restock>500</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+        <tag name="hunting" />
+    </type>
+	<type name="TacticalShirt_Welliton_Winter_Grey">
+        <nominal>3</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="PlateCarrierVest_Welliton_Winter_Grey">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="PlateCarrierPouches_Welliton_Winter_Grey">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="containers" />
+        <tag name="military" />
+    </type>
+	<type name="PlateCarrierHolster_Welliton_Winter_Grey">
+        <nominal>3</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="containers" />
+        <tag name="military" />
+    </type>
+	<type name="SmershVest_Welliton_Winter_Grey">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="SmershBag_Welliton_Winter_Grey">
+        <nominal>3</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="bags" />
+        <tag name="military" />
+    </type>
+	<type name="UKAssVest_Welliton_Winter_Grey">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="PoliceVest_Welliton_Winter_Grey">
+        <nominal>6</nominal>
+        <min>4</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="police" />
+    </type>
+	<type name="HighCapacityVest_Welliton_Winter_Grey">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="Mich2001Helmet_Welliton_Winter_Grey">
+        <nominal>5</nominal>
+        <min>3</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="DarkMotoHelmet_Welliton_Winter_Grey">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+    </type>
+	<type name="GorkaHelmet_Welliton_Winter_Grey">
+        <nominal>4</nominal>
+        <min>3</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+        <tag name="police" />
+    </type>
+	<type name="BalaclavaMask_Welliton_Winter_Grey">
+        <nominal>10</nominal>
+        <min>6</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+        <tag name="military" />
+        <tag name="police" />
+    </type>
+	<type name="Balaclava3Holes_Welliton_Winter_Grey">
+        <nominal>10</nominal>
+        <min>6</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+        <tag name="military" />
+        <tag name="police" />
+    </type>
+	<type name="FaceCover_Improvised_Welliton_Winter_Grey">
+        <nominal>3</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+        <tag name="military" />
+        <tag name="police" />
+    </type>
+	<type name="TacticalGloves_Welliton_Winter_Grey">
+        <nominal>8</nominal>
+        <min>6</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="OMNOGloves_Welliton_Winter_Grey">
+        <nominal>8</nominal>
+        <min>6</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="WorkingGloves_Welliton_Winter_Grey">
+        <nominal>20</nominal>
+        <min>15</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="firefighter" />
+    </type>
+	<type name="AssaultBag_Welliton_Winter_Pixel">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="bags" />
+        <tag name="military" />
+    </type>
+	<type name="HuntingBag_Welliton_Winter_Pixel">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="bags" />
+        <tag name="civilian" />
+        <tag name="hunting" />
+    </type>
+	<type name="MountainBag_Welliton_Winter_Pixel">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="bags" />
+        <tag name="civilian" />
+    </type>
+	<type name="TortillaBag_Welliton_Winter_Pixel">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="bags" />
+        <tag name="military" />
+    </type>
+	<type name="CargoPants_Welliton_Winter_Pixel">
+        <nominal>4</nominal>
+        <min>3</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="industrial" />
+    </type>
+	<type name="FirefightersPants_Welliton_Winter_Pixel">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="firefighter" />
+    </type>
+	<type name="GorkaPants_Welliton_Winter_Pixel">
+        <nominal>4</nominal>
+        <min>3</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier23" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="HunterPants_Welliton_Winter_Pixel">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>1800</lifetime>
+        <restock>500</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+        <tag name="hunting" />
+    </type>
+	<type name="FirefighterJacket_Welliton_Winter_Pixel">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="firefighter" />
+    </type>
+	<type name="GorkaEJacket_Welliton_Winter_Pixel">
+        <nominal>4</nominal>
+        <min>3</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier23" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="HuntingJacket_Welliton_Winter_Pixel">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>1800</lifetime>
+        <restock>500</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+        <tag name="hunting" />
+    </type>
+	<type name="TacticalShirt_Welliton_Winter_Pixel">
+        <nominal>3</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="PlateCarrierVest_Welliton_Winter_Pixel">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="PlateCarrierPouches_Welliton_Winter_Pixel">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="containers" />
+        <tag name="military" />
+    </type>
+	<type name="PlateCarrierHolster_Welliton_Winter_Pixel">
+        <nominal>3</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="containers" />
+        <tag name="military" />
+    </type>
+	<type name="SmershVest_Welliton_Winter_Pixel">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="SmershBag_Welliton_Winter_Pixel">
+        <nominal>3</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="bags" />
+        <tag name="military" />
+    </type>
+	<type name="UKAssVest_Welliton_Winter_Pixel">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="PoliceVest_Welliton_Winter_Pixel">
+        <nominal>6</nominal>
+        <min>4</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="police" />
+    </type>
+	<type name="HighCapacityVest_Welliton_Winter_Pixel">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="Mich2001Helmet_Welliton_Winter_Pixel">
+        <nominal>5</nominal>
+        <min>3</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="DarkMotoHelmet_Welliton_Winter_Pixel">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+    </type>
+	<type name="GorkaHelmet_Welliton_Winter_Pixel">
+        <nominal>4</nominal>
+        <min>3</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+        <tag name="police" />
+    </type>
+	<type name="BalaclavaMask_Welliton_Winter_Pixel">
+        <nominal>10</nominal>
+        <min>6</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+        <tag name="military" />
+        <tag name="police" />
+    </type>
+	<type name="Balaclava3Holes_Welliton_Winter_Pixel">
+        <nominal>10</nominal>
+        <min>6</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+        <tag name="military" />
+        <tag name="police" />
+    </type>
+	<type name="FaceCover_Improvised_Welliton_Winter_Pixel">
+        <nominal>3</nominal>
+        <min>2</min>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+        <tag name="military" />
+        <tag name="police" />
+    </type>
+	<type name="TacticalGloves_Welliton_Winter_Pixel">
+        <nominal>8</nominal>
+        <min>6</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="OMNOGloves_Welliton_Winter_Pixel">
+        <nominal>8</nominal>
+        <min>6</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+	<type name="WorkingGloves_Welliton_Winter_Pixel">
+        <nominal>20</nominal>
+        <min>15</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="firefighter" />
+    </type>			
+	<type name="M4A1_Welliton_Winter_White">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier7" />
+        <category name="lantia" />
+        <tag name="military" />
+    </type>
+	<type name="M4A1_Welliton_Winter_Camo">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier7" />
+        <category name="lantia" />
+        <tag name="military" />
+    </type>
+	<type name="Mosin9130_Winter_White">
+        <nominal>8</nominal>
+        <lifetime>3600</lifetime>
+        <restock>300</restock>
+        <min>5</min>
+        <quantmin>0</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier23" />
+        <category name="rifles" />
+        <tag name="civilian" />
+        <tag name="hunting" />
+    </type>
+	<type name="Mosin9130_Winter_Camo">
+        <nominal>8</nominal>
+        <lifetime>3600</lifetime>
+        <restock>300</restock>
+        <min>5</min>
+        <quantmin>0</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier23" />
+        <category name="rifles" />
+        <tag name="civilian" />
+        <tag name="hunting" />
+    </type>
+	<type name="Saiga_Winter_White">
+        <nominal>6</nominal>
+        <lifetime>3600</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>
+	<type name="Saiga_Winter_Camo">
+        <nominal>6</nominal>
+        <lifetime>3600</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>
+	<type name="ASVAL_Winter_White">
+        <nominal>2</nominal>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier4" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>
+	<type name="ASVAL_Winter_Camo">
+        <nominal>2</nominal>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier4" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>
+	<type name="SVD_Winter_White">
+        <nominal>2</nominal>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier5" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>
+	<type name="SVD_Winter_Camo">
+        <nominal>2</nominal>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier5" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>
+	<type name="VSS_Winter_White">
+        <nominal>4</nominal>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier4" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>
+	<type name="VSS_Winter_Camo">
+        <nominal>4</nominal>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier4" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>
+	<type name="AK74_Winter_White">
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier4" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>
+	<type name="AK74_Winter_Camo">
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier4" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>
+	<type name="AKS74U_Winter_White">
+        <nominal>5</nominal>
+        <lifetime>3600</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier3" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>
+	<type name="AKS74U_Winter_Camo">
+        <nominal>5</nominal>
+        <lifetime>3600</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier3" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>
+	<type name="AK101_Winter_White">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier4" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>
+	<type name="AK101_Winter_Camo">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier4" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>
+	<type name="AKM_Winter_White">
+        <nominal>4</nominal>
+        <lifetime>3600</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier3" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>
+	<type name="AKM_Winter_Camo">
+        <nominal>4</nominal>
+        <lifetime>3600</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier3" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>
+	<type name="FAL_Winter_White">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>3600</lifetime>
+        <restock>1800</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier5" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>
+	<type name="FAL_Winter_Camo">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>3600</lifetime>
+        <restock>1800</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier5" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>
+	<type name="M16A2_Winter_White">
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>
+	<type name="M16A2_Winter_Camo">
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="rifles" />
+        <tag name="military" />
+    </type>	
+	<type name="Mag_AK101_30Rnd_Winter_White">
+        <nominal>4</nominal>
+        <min>3</min>
+        <lifetime>2700</lifetime>
+        <restock>1500</restock>
+        <quantmin>25</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="Mag_AK101_30Rnd_Winter_Camo">
+        <nominal>4</nominal>
+        <min>3</min>
+        <lifetime>2700</lifetime>
+        <restock>1500</restock>
+        <quantmin>25</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="Mag_AK74_30Rnd_Winter_White">
+        <nominal>5</nominal>
+        <min>4</min>
+        <lifetime>2700</lifetime>
+        <restock>1500</restock>
+        <quantmin>25</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="Mag_AK74_30Rnd_Winter_Camo">
+        <nominal>5</nominal>
+        <min>4</min>
+        <lifetime>2700</lifetime>
+        <restock>1500</restock>
+        <quantmin>25</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="Mag_AKM_30Rnd_Winter_White">
+        <nominal>6</nominal>
+        <min>4</min>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <quantmin>25</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="Mag_AKM_30Rnd_Winter_Camo">
+        <nominal>6</nominal>
+        <min>4</min>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <quantmin>25</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier234" />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="M4A1_StanagMag_Welliton_Winter_White">
+        <nominal>4</nominal>
+        <min>3</min>
+        <lifetime>2700</lifetime>
+        <restock>1500</restock>
+        <quantmin>25</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier45" />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="M4A1_StanagMag_Welliton_Winter_Camo">
+        <nominal>4</nominal>
+        <min>3</min>
+        <lifetime>2700</lifetime>
+        <restock>1500</restock>
+        <quantmin>25</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier45" />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="Mag_Saiga_Drum20Rnd_Winter_White">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>2700</lifetime>
+        <restock>1500</restock>
+        <quantmin>20</quantmin>
+        <quantmax>50</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier4" />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="Mag_Saiga_Drum20Rnd_Winter_Camo">
+        <nominal>2</nominal>
+        <min>1</min>
+        <lifetime>2700</lifetime>
+        <restock>1500</restock>
+        <quantmin>20</quantmin>
+        <quantmax>50</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier4" />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="Mag_VSS_10Rnd_Winter_White">
+        <nominal>3</nominal>
+        <min>2</min>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <quantmin>40</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="Mag_VSS_10Rnd_Winter_Camo">
+        <nominal>3</nominal>
+        <min>2</min>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <quantmin>40</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="Mag_AK74_30Rnd_Winter_White">
+        <nominal>5</nominal>
+        <min>4</min>
+        <lifetime>2700</lifetime>
+        <restock>1500</restock>
+        <quantmin>25</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+	<type name="Mag_AK74_30Rnd_Winter_Camo">
+        <nominal>5</nominal>
+        <min>4</min>
+        <lifetime>2700</lifetime>
+        <restock>1500</restock>
+        <quantmin>25</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value user="Tier34" />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+</types>
