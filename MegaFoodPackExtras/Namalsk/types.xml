@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="MFP_Starburst">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Smarties">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_JollyRancher">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Swedish">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_SkittlesB">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Nerds">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Twizzlers">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Doritos">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_DoritosRanch">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Cheetos">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Lays">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_LaysBBQ">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_LaysSV">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Funyuns">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Fritos">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Takis">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Jerky_Peppered">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Jerky_Original">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Jerky_Teri">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Jerky_Jalapeno">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Popcorn">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Catfood">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_ZombieMeat">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_HumanMeat">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_MRE1">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+		<tag name="military" />
+    </type>
+    <type name="MFP_MRE2">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+		<tag name="military" />
+    </type>
+    <type name="MFP_MRE3">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+		<tag name="military" />
+    </type>
+    <type name="MFP_MRE4">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+		<tag name="military" />
+    </type>
+    <type name="MFP_MRE5">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+		<tag name="military" />
+    </type>
+    <type name="MFP_MRE6">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+		<tag name="military" />
+    </type>
+    <type name="MFP_MRE7">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+		<tag name="military" />
+    </type>
+    <type name="MFP_MuddyBuddy">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Oreos">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_NatureValley">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_CrunchBerries">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Cheerios">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_FruityPebbles">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_CocoaPebbles">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_ReesesPuffs">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_CinnamonLife">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_HoneyBunches">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_CheezIt">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_WheatThins">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_BegginStrips">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_DogTreats">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_VapoRub">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_AppleJacks">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_CookieCrisp">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_CoffeeBeans">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Pasta">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_HFlask_Base">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_HFlask_Stickers">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_HFlask_XMen">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_HFlask_Royal">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_HFlask_Carmine">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_HFlask_Solar">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_HFlask_Coral">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_HFlask_Lavender">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_HFlask_Slate">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_HFlask_Midnight">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_Skittles1">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_MandM4">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_MandM3">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_MandM2">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+    <type name="MFP_MandM1">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <value />
+        <category name="food" />
+    </type>
+</types>
